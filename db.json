@@ -74,7 +74,7 @@
     }
   ],
   "services" : {
-  "published-services": [
+  "published": [
     { 
       "id": 2, 
       "title": "GitLab CE", 
@@ -94,7 +94,7 @@
       "logo":"https://bitnami.com/downloads/logos/bitnami-mark.png"
     }
   ],
-  "pending-services": [
+  "pending": [
     { 
       "id": 10, 
       "title": "GitLab CE", 
