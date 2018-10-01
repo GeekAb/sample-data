@@ -73,10 +73,48 @@
       "logo":"https://marketplace-download.vmware.com/resources/vsx/product/9444/logo/original/Pivot3Logo_Blue_SC11-16_Hi489b9801795d375c9e3da987f19a2e83.png"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "services" : {
+  "published-services": [
+    { 
+      "id": 2, 
+      "title": "GitLab CE", 
+      "publisher": "Bitnami",
+      "version":"11.1.2",
+      "updated":"Oct 1st,2018",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget pellentesque enim. Pellentesque finibus dolor vitae gravida imperdiet. Nullam ullamcorper mauris quis ex lacinia convallis. Pellentesque sagittis dolor placerat malesuada hendrerit. Sed lacinia quam sed porttitor mattis. Etiam pharetra lorem vitae libero tristique suscipit. Ut eget quam vel dolor malesuada euismod. In euismod, sem quis feugiat mattis, libero lacus lobortis tellus, sit amet facilisis metus erat vitae lacus.",
+      "logo":"https://bitnami.com/downloads/logos/bitnami-mark.png"
+    },
+    { 
+      "id": 3, 
+      "title": "Lamp",
+      "publisher": "Bitnami",
+      "version":"7.1",
+      "updated":"Oct 1st,2018",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget pellentesque enim. Pellentesque finibus dolor vitae gravida imperdiet. Nullam ullamcorper mauris quis ex lacinia convallis. Pellentesque sagittis dolor placerat malesuada hendrerit. Sed lacinia quam sed porttitor mattis. Etiam pharetra lorem vitae libero tristique suscipit. Ut eget quam vel dolor malesuada euismod. In euismod, sem quis feugiat mattis, libero lacus lobortis tellus, sit amet facilisis metus erat vitae lacus.",
+      "logo":"https://bitnami.com/downloads/logos/bitnami-mark.png"
+    }
   ],
+  "pending-services": [
+    { 
+      "id": 10, 
+      "title": "GitLab CE", 
+      "publisher": "Bitnami",
+      "version":"11.1.2",
+      "updated":"Oct 1st,2018",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget pellentesque enim. Pellentesque finibus dolor vitae gravida imperdiet. Nullam ullamcorper mauris quis ex lacinia convallis. Pellentesque sagittis dolor placerat malesuada hendrerit. Sed lacinia quam sed porttitor mattis. Etiam pharetra lorem vitae libero tristique suscipit. Ut eget quam vel dolor malesuada euismod. In euismod, sem quis feugiat mattis, libero lacus lobortis tellus, sit amet facilisis metus erat vitae lacus.",
+      "logo":"https://bitnami.com/downloads/logos/bitnami-mark.png"
+    },
+    { 
+      "id": 11, 
+      "title": "Lamp",
+      "publisher": "Bitnami",
+      "version":"7.1",
+      "updated":"Oct 1st,2018",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget pellentesque enim. Pellentesque finibus dolor vitae gravida imperdiet. Nullam ullamcorper mauris quis ex lacinia convallis. Pellentesque sagittis dolor placerat malesuada hendrerit. Sed lacinia quam sed porttitor mattis. Etiam pharetra lorem vitae libero tristique suscipit. Ut eget quam vel dolor malesuada euismod. In euismod, sem quis feugiat mattis, libero lacus lobortis tellus, sit amet facilisis metus erat vitae lacus.",
+      "logo":"https://bitnami.com/downloads/logos/bitnami-mark.png"
+    }
+  ]
+  },
   "profile": {
     "name": "typicode"
   }
