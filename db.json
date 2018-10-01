@@ -27,12 +27,51 @@
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget pellentesque enim. Pellentesque finibus dolor vitae gravida imperdiet. Nullam ullamcorper mauris quis ex lacinia convallis. Pellentesque sagittis dolor placerat malesuada hendrerit. Sed lacinia quam sed porttitor mattis. Etiam pharetra lorem vitae libero tristique suscipit. Ut eget quam vel dolor malesuada euismod. In euismod, sem quis feugiat mattis, libero lacus lobortis tellus, sit amet facilisis metus erat vitae lacus.",
       "logo":"https://bitnami.com/downloads/logos/bitnami-mark.png"
     },
-    { "id": 4, "title": "Product 1", "desc": "Sample Description"},
-    { "id": 5, "title": "Product 2", "desc": "Sample Description"},
-    { "id": 6, "title": "Product 3", "desc": "Sample Description"},
-    { "id": 7, "title": "Product 1", "desc": "Sample Description"},
-    { "id": 8, "title": "Product 2", "desc": "Sample Description"},
-    { "id": 9, "title": "Product 3", "desc": "Sample Description"}
+    { 
+      "id": 4, 
+      "title": "Amazon RDS Management Pack from Blue Medora", 
+      "desc": "From insight into capacity for database connections to access to key database metrics, the Blue Medora Amazon RDS Management Pack for vRealize Operations offers end-to-end visibility across Amazon RDS resources to simplify troubleshooting, reduce mean-time-to-innocence and optimize performance.<br />The management pack offers insight into key metrics, including network utilization, storage IOPS, storage latency and disk queue length. In addition, a series of out-of-the-box reports and dashboards ensure that administrators have key insight into CPU, memory and storage to optimize Amazon infrastructure beyond RDS instances.",
+      "publisher": "Blue Medora",
+      "version":"11",
+      "updated":"Oct 1st,2018",
+      "logo":"https://marketplace-download.vmware.com/resources/apps/blue-medora-mp-for-amazon-rds__1525880271960.png"
+    },
+    { 
+      "id": 5, 
+      "title": "ENTERPRISE VA MAX - LOAD BALANCER", 
+      "desc": "<strong>Full Layer 4-7 Functionality Application Delivery Controller (ADC)</strong><br>The virtual appliance version of our software is almost identical to the hardware appliance, including all the same great features. Some customers use our virtual appliance to load balance <a href='http://pdfs.loadbalancer.org/Vmware_View_Deployment_Guide.pdf' target='_blank'>VMware Horizon View</a>. The Loadbalancer.org Enterprise VA MAX has been <a href='http://technet.microsoft.com/en-us/exchange/gg176682.aspx' target='_blank' name='&amp;lpos=apps_scodevmw : 6'>reviewed by Microsoft to meet Exchange Server 2016 requirements</a>.",
+      "publisher":"Loadbalancer.org, Inc.",
+      "version":"8.2.5",
+      "updated":"Oct 1st,2018",
+      "logo":"https://marketplace-download.vmware.com/resources/vsx/product/131738/logo/original/Logo_RedGreyLogo0ea5d7fb56e375390a09a2ad2d4021d0.png"
+    },
+    { 
+      "id": 6, 
+      "title": "HPE ONEVIEW FOR VMWARE VREALIZE OPERATIONS", 
+      "desc": "The HPE OneView integration with vRealize Operations provides proactive monitoring for performance, health and capacity. HPE OneView for VMware vRealize Operations uncovers critical trend changes and includes dashboards that facilitate the identification of root cause problems and impacted resources across your converged infrastructure.",
+      "publisher":"Hewlett Packard Enterprise",
+      "version":"2.2",
+      "updated":"Oct 1st,2018",
+      "logo":"https://marketplace-download.vmware.com/resources/vsx/product/96219/logo/original/HPE_Logo85720c46994061a0c6be12a9b08d8edb.png"
+    },
+    { 
+      "id": 7, 
+      "title": "NETAPP SOLUTION FOR VMWARE CLOUD", 
+      "desc": "The NetApp® solution for VMware® Private Cloud, available as a NetApp Verified Architecture, combines innovative NetApp and VMware technologies and best practices, enabling enterprises and service providers to rapidly deploy an integrated cloud solution built on a shared virtualized infrastructure.",
+      "publisher":"NetApp, Inc.",
+      "version":"5.1",
+      "updated":"Oct 1st,2018",
+      "logo":"https://marketplace-download.vmware.com/resources/vsx/product/19908/logo/original/NetAppLogo2b8afbbc8a154e9996c053b453e160a84.png"
+    },
+    { 
+      "id": 8, 
+      "title": "VSTAC VDI APPLIANCE", 
+      "desc": "Pivot3 delivers radically simplified and integrated shared storage and virtual servers in a simple, scalable appliance model. Pivot3 vSTAC VDI appliances provide an enterprise-class virtual desktop infrastructure for VMware View with high performance, high availability and no single point of failure. Pivot3 vSTAC VDI arrays operate as true shared resource pools. As vSTAC VDI appliances are “stacked” together, the system dynamically aggregates, load-balances and optimizes shared storage, compute and network resources to ensure optimal desktop performance. A Pivot3 vSTAC VDI array is designed to withstand end-to-end failures; from desktops to disks to appliances.",
+      "publisher":"Pivot3",
+      "version":"vSTAC R2",
+      "updated":"Oct 1st,2018",
+      "logo":"https://marketplace-download.vmware.com/resources/vsx/product/9444/logo/original/Pivot3Logo_Blue_SC11-16_Hi489b9801795d375c9e3da987f19a2e83.png"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
